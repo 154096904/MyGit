@@ -7,5 +7,6 @@ public class GitGood {
         System.out.println("hahah");
         System.out.println("hahah");
         System.out.println("hahah");
+        System.out.println("hahah");
     }
 }
